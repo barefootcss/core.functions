@@ -1,6 +1,6 @@
 #Functions Module
 
-The `defaults` module contains global functions used across other modules.
+The `functions` module contains global functions used across other modules.
 
 ## Installation
 
