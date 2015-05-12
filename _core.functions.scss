@@ -38,7 +38,7 @@
 // Calculate line-height.
 //
 
-@function bareLh($px, $context: $bare-sp-m) {
+@function bareLh($px, $context: $bare-lh-m) {
 
 	@return ceil($px / $context) * ($context / $px);
 
